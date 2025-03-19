@@ -108,16 +108,13 @@ Oá meu nome é Yasmin Santos, tenho 18 anos e sou de São Paulo. Estou concluin
 
 ### 📊 Estatísticas
 
-<p>
-  <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=Yasmin-Santoszx&show_icons=true&theme=radical&include_all_commits=true&locale=pt-br" 
-  />
 
-
+<table>
+  <tr>
+    <td><img alt="GitHub Stats" height="200" src="https://github-readme-stats.vercel.app/api?username=Yasmin-Santoszx&show_icons=true&theme=radical&include_all_commits=true&locale=pt-br" /></td>
+    <td><img alt="GitHub Streak" height="200" src="https://github-readme-streak-stats.herokuapp.com/?user=Yasmin-Santoszx&theme=radical&locale=pt-br" /></td>
+  </tr>
+</table>
 
 
 
