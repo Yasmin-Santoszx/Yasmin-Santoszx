@@ -117,15 +117,6 @@ Meu nome é Yasmin Santos, tenho 18 anos e sou de São Paulo. Estou concluindo o
     src="https://github-readme-stats.vercel.app/api?username=Yasmin-Santoszx&show_icons=true&theme=radical&include_all_commits=true&locale=pt-br" 
   />
 
-<p>
-  <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&size_weight=0.5&count_weight=0.5)
-  />
-
 
 
 
