@@ -2,7 +2,7 @@
 
 **`Desenvolvedora Backend`**
 
-Atuo como desenvolvedora backend PHP, criando soluções que combinam resolver problemas reais, performance e escalabilidade.
+Desenvolvedora backend PHP, criando soluções que combinam resolver problemas reais, performance e escalabilidade.
 Apaixonada por resolver problemas com criatividade, transformando ideias em sistemas funcionais e eficientes.
 
 ✨ Sempre em busca de evolução contínua, tanto técnica quanto pessoal.
