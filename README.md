@@ -5,7 +5,7 @@
 Atuo como desenvolvedora backend PHP, criando soluções que combinam resolver problemas reais, performance e escalabilidade.
 Apaixonada por resolver problemas com criatividade, transformando ideias em sistemas funcionais e eficientes.
 
-✨✨ Sempre em busca de evolução contínua, tanto técnica quanto pessoal.
+✨ Sempre em busca de evolução contínua, tanto técnica quanto pessoal.
 Atualmente foco em apronfundar em Node.js, TypeScript e boas práticas de acessibilidade, performance e arquitetura de software.
 
 <p align="left">
