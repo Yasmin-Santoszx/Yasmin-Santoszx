@@ -2,7 +2,11 @@
 
 **`Desenvolvedora Backend`**
 
-Olá meu nome é Yasmin Santos, tenho 18 anos e sou de São Paulo. Estou concluindo o ensino médio no SESI-024 e sou técnica em Desenvolvimento de Sistemas pelo SENAI. Atualmente, curso Desenvolvimento de Sistemas na mesma instituição. Sou apaixonada por tecnologia e inovação, sempre buscando aprimorar minhas habilidades por meio de novos desafios e aprendizados. Meu objetivo é contribuir com soluções eficientes e escaláveis no desenvolvimento de software.
+Atuo como desenvolvedora backend PHP, criando soluções que unem lógica, performance e escalabilidade.
+Apaixonada por resolver problemas reais com código e criatividade, e por transformar ideias em sistemas funcionais e eficientes.
+
+✨ Sempre em busca de evolução contínua, tanto técnica quanto pessoal.
+Atualmente focada em me aprofundar Node.js, Typescrpt e boas práticas de acessibilidade e performance.
 
 <p align="left">
     <a href="https://www.instagram.com/santoos_yaasz/?igsh=OGl0eDZ0Mm1uaWpl#">
