@@ -2,11 +2,11 @@
 
 **`Desenvolvedora Backend`**
 
-Atuo como desenvolvedora backend PHP, criando soluções que unem lógica, performance e escalabilidade.
-Apaixonada por resolver problemas reais com código e criatividade, e por transformar ideias em sistemas funcionais e eficientes.
+Atuo como desenvolvedora backend PHP, criando soluções que combinam resolver problemas reais, performance e escalabilidade.
+Apaixonada por resolver problemas com criatividade, transformando ideias em sistemas funcionais e eficientes.
 
-✨ Sempre em busca de evolução contínua, tanto técnica quanto pessoal.
-Atualmente focada em me aprofundar Node.js, Typescrpt e boas práticas de acessibilidade e performance.
+✨✨ Sempre em busca de evolução contínua, tanto técnica quanto pessoal.
+Atualmente foco em apronfundar em Node.js, TypeScript e boas práticas de acessibilidade, performance e arquitetura de software.
 
 <p align="left">
     <a href="https://www.instagram.com/santoos_yaasz/?igsh=OGl0eDZ0Mm1uaWpl#">
